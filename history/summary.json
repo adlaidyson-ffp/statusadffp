@@ -22,7 +22,7 @@
     "url": "https://links.adlaidyson.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/links.adlaidyson.co.uk.ico",
     "slug": "link-in-bio",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-29": 119
+      "2025-12-29": 126
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://clients.adlaidyson.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/clients.adlaidyson.co.uk.ico",
     "slug": "client-galleries-picr",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 212,
-    "timeDay": 212,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 239,
+    "timeDay": 239,
+    "timeWeek": 239,
+    "timeMonth": 239,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2025-12-29": 119
+      "2025-12-29": 126
     }
   },
   {
@@ -74,7 +74,7 @@
     "timeMonth": 199,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2025-12-29": 118
+      "2025-12-29": 126
     }
   }
 ]

@@ -30,6 +30,9 @@ sites:
     url: https://sso.adlaidyson.co.uk
 
 status-website:
+  links:
+    - rel: stylesheet
+      href: https://cdn-eu.fusedframe.co.uk/stylesheets/upptime.css
   cname: status.adffp.uk
   logoUrl: https://cdn-eu.fusedframe.co.uk/main-logos/jpg/squarefavicon-nocircle.jpg
   name: Service Statuses
@@ -42,3 +45,12 @@ status-website:
       href: https://www.fusedframe.co.uk
     - title: All Links
       href: https://links.adlaidyson.co.uk
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"

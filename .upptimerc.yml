@@ -17,7 +17,7 @@ status-website:
   cname: status.adffp.uk
   logoUrl: https://cdn-eu.fusedframe.co.uk/main-logos/jpg/squarefavicon-nocircle.jpg
   name: Service Statuses
-  introTitle: "**Srvice Statuses**"
+  introTitle: "**Service Statuses**"
   introMessage: View the status for all services used or hosted by Adlai Dyson | Fused Frame Photography.
   navbar:
     - title: Status

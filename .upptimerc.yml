@@ -12,16 +12,22 @@ sites:
     url: https://cloud.fusedframe.co.uk
   - name: DocuSign (Document Signing Platform)
     url: https://sign.adlaidyson.co.uk
-  - name: Content Delivery Network (CDN) - Cloudflare R2
+  - name: Content Delivery Network (CDN) – Cloudflare R2
     url: https://cdn-eu.fusedframe.co.uk/main-branding/status.html
-  - name: URL Shortner - adffp.uk
-    url: adffp.uk
+  - name: URL Shortener – adffp.uk
+    url: https://adffp.uk
   - name: Shutter Society Mastodon
-    url: shuttersociety.uk
+    url: https://shuttersociety.uk
   - name: Upper Haugh Weather (Frontend)
-    url: upperhaughweather.uk
+    url: https://upperhaughweather.uk
   - name: Upper Haugh Weather (API Backend)
-    url: api.upperhaughweather.uk/weather
+    url: https://api.upperhaughweather.uk/weather
+  - name: VaultWarden Password Manager
+    url: https://vault.adlaidyson.co.uk
+  - name: QR Code Generator
+    url: https://qr.adlaidyson.co.uk
+  - name: Authentik SSO
+    url: https://sso.adlaidyson.co.uk
 
 status-website:
   cname: status.adffp.uk

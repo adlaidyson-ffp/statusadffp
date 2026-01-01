@@ -2,12 +2,10 @@ owner: adlaidyson-ffp
 repo: statusadffp
 
 sites:
-  - name: Main Website
+  - name: Main Website and Galleries
     url: https://www.fusedframe.co.uk
   - name: Link in Bio
     url: https://links.adlaidyson.co.uk
-  - name: Client Galleries (PICR)
-    url: https://clients.adlaidyson.co.uk
   - name: ADFFP Cloud (NextCloud)
     url: https://cloud.fusedframe.co.uk
   - name: DocuSign (Document Signing Platform)

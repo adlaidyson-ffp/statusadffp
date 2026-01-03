@@ -4,6 +4,8 @@ repo: statusadffp
 sites:
   - name: Main Website and Galleries
     url: https://www.fusedframe.co.uk
+  - name: EXIF Overlay: Clean Summaries for Every Shot!
+    url: https://exifoverlay.com
   - name: Link in Bio
     url: https://links.adlaidyson.co.uk
   - name: ADFFP Cloud (NextCloud)
